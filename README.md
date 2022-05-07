@@ -15,4 +15,10 @@ What more features do I need to add?
 - Integrate Firebase Admin SDK. </p>
  
  <img src="./screenshots/Turing-blog1.png" width="1280"/>
+ <img src="./screenshots/Turing-blog2.png" width="1280"/>
+ <img src="./screenshots/Turing-blog3.png" width="1280"/>
+ <img src="./screenshots/Turing-blog4.png" width="1280"/>
+ <img src="./screenshots/Turing-blog5.png" width="1280"/>
+ <img src="./screenshots/Turing-blog6.png" width="1280"/>
+ <img src="./screenshots/Turing-blog7.png" width="1280"/>
 

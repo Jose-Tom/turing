@@ -14,4 +14,4 @@ What more features do I need to add?
 - Give admin the privilege to promote users as admins.
 - Integrate Firebase Admin SDK. </p>
  
- <img src="./screenshots/Turing-blog1.png" width="1280px/>
+ <img src="Turing-blog1.png" width="1280px/>
